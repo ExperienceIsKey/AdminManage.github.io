@@ -8,5 +8,5 @@
 
 4.For user account there are current events page.
 
-5.Admin can add new events and pages and look in the contact webpage for the people who have contacted uing the form.
+5.Admin can add new events and pages and look in the contact webpage for the people who have contacted using the form.
 
