@@ -1,6 +1,6 @@
 # adminmanage.github.io
 
-1.loginpage is for the Admin Login
+1.Index.html is the Admin Login Page.
 
 2.User is for the people visiting the website. It has contact, about us, registration page hyperlinked with it.
 
